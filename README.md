@@ -5,7 +5,7 @@ This Streamlit dashboard explores the evolution of COVID-19 in France through in
 It shows how epidemic waves evolved over time and across regions, using public hospital data.
 
 ## Live App
-Public URL: https://covid-story-tonnom.streamlit.app
+Public URL: https://nathp94-data-viz-app.streamlit.app
 
 ## Dataset
 Source: Santé Publique France — data.gouv.fr  
