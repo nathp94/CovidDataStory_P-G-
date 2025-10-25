@@ -7,6 +7,10 @@ It shows how epidemic waves evolved over time and across regions, using public h
 ## Live App
 Public URL: https://nathp94-data-viz-app.streamlit.app
 
+## Github Repo
+
+Public URL: https://github.com/nathp94/CovidDataStory_P-G-
+
 ## Dataset
 Source: Santé Publique France — data.gouv.fr  
 Synthesis of COVID-19 monitoring indicators:  
